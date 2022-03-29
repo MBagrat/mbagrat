@@ -28,12 +28,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-YAML             8 mins          ███████░░░░░░░░░░░░░░░░░░   28.18 %
-Groovy           6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-JSON             4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-CSV/TSV          3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-VimL             1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+VimL       1 min           ███████████████████████░░   91.82 %
+textmate   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
