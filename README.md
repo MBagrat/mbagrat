@@ -28,9 +28,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-textmate         6 mins          █████████████▒░░░░░░░░░░░   53.01 %
-GitIgnore file   4 mins          █████████░░░░░░░░░░░░░░░░   36.62 %
-Other            1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+GitIgnore file   4 mins          ███████████████████████▓░   95.18 %
+textmate         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->
