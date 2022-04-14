@@ -28,8 +28,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   7 mins          ████████████▒░░░░░░░░░░░░   49.16 %
-Other            7 mins          ███████████▒░░░░░░░░░░░░░   45.20 %
+Other            7 mins          ████████████████▒░░░░░░░░   65.77 %
 ```
 
 <!--END_SECTION:waka-->
