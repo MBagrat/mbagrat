@@ -28,7 +28,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other    24 mins         █████████████████░░░░░░░░   68.45 %
 ```
 
 <!--END_SECTION:waka-->
