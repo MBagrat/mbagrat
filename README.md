@@ -28,12 +28,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Java           3 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   39.52 %
-Groovy         2 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-Gradle         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-AsciiDoc       43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Properties     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Makefile       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Java           3 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   39.55 %
+Groovy         2 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
+Gradle         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+AsciiDoc       43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Properties     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Makefile       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
