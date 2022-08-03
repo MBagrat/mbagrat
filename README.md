@@ -28,10 +28,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Java         7 hrs 54 mins   ███████████████▒░░░░░░░░░   61.46 %
-XML          2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Properties   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Other        51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Java         7 hrs 29 mins   ████████████████▒░░░░░░░░   65.11 %
+XML          2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+Properties   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+SQL          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Makefile     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+textmate     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
