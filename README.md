@@ -28,8 +28,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Java           4 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.74 %
-Other          2 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   28.65 %
+Other          1 hr 36 mins    ████████▒░░░░░░░░░░░░░░░░   33.69 %
 ```
 
 <!--END_SECTION:waka-->
