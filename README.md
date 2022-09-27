@@ -16,7 +16,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/mbagrat);
+- 🚀 I'm currently learning Swift programming language and IOS/MACOS app development with this course [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [my blog](https://mbagrat.com);
 - 📫 How to reach me: bagrat.mukaelyan@gmail.com;
