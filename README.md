@@ -28,10 +28,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Java             11 hrs 23 mins  ██████████████████▒░░░░░░   73.26 %
-Markdown         1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-XML              47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Other            33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Java             10 hrs 43 mins  ██████████████████▒░░░░░░   72.77 %
+Markdown         1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Other            35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
