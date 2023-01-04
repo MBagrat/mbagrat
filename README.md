@@ -28,8 +28,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-CSV/TSV          1 hr 15 mins    █████████░░░░░░░░░░░░░░░░   35.95 %
-Other            37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+CSV/TSV          1 hr 15 mins    ████████░░░░░░░░░░░░░░░░░   32.17 %
+Other            51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
 ```
 
 <!--END_SECTION:waka-->
