@@ -28,9 +28,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs 28 mins  ████████████░░░░░░░░░░░░░   47.69 %
-Bash             2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-Other            1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Java             10 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.80 %
+Bash             2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Brew Bundle      1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Shell Script     1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+XML              1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Text             56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
