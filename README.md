@@ -27,7 +27,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Other   5 hrs 25 mins   ███████████████████▓░░░░░   78.91 %
 Bash    1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
 Text    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
