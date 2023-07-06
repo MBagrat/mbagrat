@@ -28,10 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 36 mins    ████████████████▓░░░░░░░░   66.49 %
-SSH Config   45 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other            2 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   42.01 %
+Bash             1 hr 41 mins    ████████▒░░░░░░░░░░░░░░░░   33.16 %
+INI              30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+XML              25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+textmate         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
