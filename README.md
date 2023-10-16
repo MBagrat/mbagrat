@@ -28,10 +28,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      1 hr 37 mins    ███████████▒░░░░░░░░░░░░░   45.50 %
-Other         1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   35.18 %
-Assembly      22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Objective-C   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Markdown      1 hr 49 mins    ███████████▓░░░░░░░░░░░░░   46.04 %
+Other         1 hr 15 mins    ████████░░░░░░░░░░░░░░░░░   31.59 %
+Objective-C   30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Assembly      22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
