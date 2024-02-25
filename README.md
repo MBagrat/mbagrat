@@ -28,9 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 45 mins    █████████████████▓░░░░░░░   70.29 %
-YAML    35 mins         ██████░░░░░░░░░░░░░░░░░░░   23.68 %
-Bash    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Other        1 hr 48 mins    ███████████▓░░░░░░░░░░░░░   46.58 %
+Dart         1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   31.52 %
+YAML         38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
