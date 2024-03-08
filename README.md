@@ -28,9 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 hrs 39 mins   █████████████████████░░░░   84.52 %
-Other      1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Dart       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown   9 hrs 52 mins   ███████████████████▓░░░░░   78.70 %
+Other      2 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+Makefile   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Dart       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
