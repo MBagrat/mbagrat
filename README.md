@@ -28,8 +28,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other      3 hrs 15 mins   █████████████████████▒░░░   85.68 %
-Markdown   32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Other      2 hrs 15 mins   ██████████████████████▓░░   90.29 %
+Markdown   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
 ```
 
 <!--END_SECTION:waka-->
