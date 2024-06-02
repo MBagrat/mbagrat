@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other       2 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.35 %
-Lua         2 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.28 %
-Bash        1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Markdown    34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-dosini      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Other       2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.30 %
+Lua         2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+Bash        1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Markdown    49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+dosini      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
