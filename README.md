@@ -28,7 +28,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other       3 hrs 15 mins   ███████████████████████░░   92.65 %
+Other       3 hrs 15 mins   ███████████████████████░░   92.57 %
 brewfile    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 conf        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 sshconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
