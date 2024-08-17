@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other                 21 hrs 29 mins  ████████████████░░░░░░░░░   64.45 %
-YAML                  4 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Kotlin                2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON                  1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-FTL                   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other                 19 hrs 29 mins  ███████████████▓░░░░░░░░░   62.30 %
+YAML                  4 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Kotlin                2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON                  1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+FTL                   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
