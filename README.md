@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   1 hr 28 mins    █████████████░░░░░░░░░░░░   51.40 %
-Other        1 hr 11 mins    ██████████▒░░░░░░░░░░░░░░   41.92 %
-brewfile     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Git Config        1 hr 33 mins    ████████▓░░░░░░░░░░░░░░░░   34.49 %
+Other             1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+Kotlin            59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+Properties        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+GitIgnore file    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
