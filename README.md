@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            2 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.56 %
-Other             1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-TOML              51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-GitIgnore file    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-CLASS             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Kotlin           1 hr 41 mins    ████████▒░░░░░░░░░░░░░░░░   33.82 %
+Other            1 hr 22 mins    ███████░░░░░░░░░░░░░░░░░░   27.47 %
+TOML             51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+GitIgnore file   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+sh               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
