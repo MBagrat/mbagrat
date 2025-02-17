@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other          9 hrs           ████████░░░░░░░░░░░░░░░░░   31.87 %
-Shell          6 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-Go             4 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-Elixir         3 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-JavaScript     1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other          10 hrs 58 mins  █████████░░░░░░░░░░░░░░░░   36.09 %
+Shell          6 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+Go             4 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Java           4 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Elixir         2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 ```
 
 <!--END_SECTION:waka-->
