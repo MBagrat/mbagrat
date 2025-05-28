@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other             3 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.12 %
-Kotlin            1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Makefile          1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-SQL               51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Java              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Other          2 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.00 %
+Makefile       1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+conf           39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Kotlin         33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Objective-C    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
