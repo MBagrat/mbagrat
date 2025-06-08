@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Other               5 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   35.02 %
-TypeScript          2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-brewfile            1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Dart                1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-C#                  56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Other               5 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.38 %
+TypeScript          2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+brewfile            1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Dart                1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+C#                  56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
