@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         7 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.98 %
-Lua          2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-HTML         1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Markdown     47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Vim Script   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Bash         6 hrs 39 mins   ██████████████░░░░░░░░░░░   56.59 %
+Lua          2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Vim Script   1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Groovy       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
