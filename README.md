@@ -28,7 +28,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request   6 mins          █████████████████████████   100.00 %
+Other          25 mins         ██████████████▒░░░░░░░░░░   57.66 %
+brewfile       12 mins         ███████░░░░░░░░░░░░░░░░░░   27.91 %
+HTTP Request   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
 ```
 
 <!--END_SECTION:waka-->
