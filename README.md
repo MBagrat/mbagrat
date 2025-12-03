@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           4 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-zsh                4 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-Jupyter Notebook   3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-HTTP Request       2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Other              1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Markdown           4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+zsh                4 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+Jupyter Notebook   3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+HTTP Request       2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Other              2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
 ```
 
 <!--END_SECTION:waka-->
