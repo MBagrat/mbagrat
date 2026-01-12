@@ -28,11 +28,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-Lua                  4 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
-tmux                 3 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Markdown             2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-YAML                 1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Bash                 1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Lua                  4 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.52 %
+tmux                 3 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+Markdown             1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+Bash                 1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+brewfile             1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
