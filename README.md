@@ -1,28 +1,50 @@
-### Hi there, I'm <a href="https://mbagrat.com" target="_blank">Bagrat Mukaelyan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+I'm <a href="https://mbagrat.com" target="_blank">Bagrat Mukaelyan</a>
+
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mbagrat.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bagratmukaelyan)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bagratmukaelyan)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mbagrat)
+
+---
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mbagrat.mbagrat)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I’m a **Senior Backend Engineer** specializing in **Java and Spring Boot**, with a strong focus on building scalable, reliable, and maintainable backend systems.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I work primarily on **distributed systems**, microservice architectures, and data-intensive platforms. I care deeply about clean domain modeling, system boundaries, performance, and long-term maintainability in production environments.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="380" height="240" />
-  
+<img align="right" alt="Coding GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="380" height="275" />
 
-**Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I'm currently learning Swift programming language and IOS/MACOS app development with this course [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [my blog](https://mbagrat.com);
-- 📫 How to reach me: bagrat.mukaelyan@gmail.com;
-<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
+### What I Work With
 
-</br>
+- **Backend:** Java, Spring Boot (Web, Data, Security, Messaging)
+- **Architecture:** Microservices, modular monoliths, API design
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis
+- **Messaging:** RabbitMQ, ActiveMQ
+- **Infrastructure:** Docker, Kubernetes, CI/CD
+- **Practices:** Clean Architecture, refactoring, performance tuning, code reviews
+
+
+### Currently
+
+- 👨🏻‍💻 Building and maintaining backend services and APIs
+- ⚙️ Improving **distributed system performance and reliability**, including:
+  - scalability and load handling  
+  - fault tolerance and resiliency  
+  - data consistency and messaging guarantees  
+- 📝 Writing technical articles on backend development and system design
+- 💬 Happy to discuss Java, Spring Boot, backend architecture, and distributed systems
+
+
+### Contact
+
+- 📫 **Email:** bagrat.mukaelyan@gmail.com  
+- 🌐 **Website:** https://mbagrat.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/bagratmukaelyan/
+
+---
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
