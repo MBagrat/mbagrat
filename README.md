@@ -50,8 +50,8 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 59 mins    ████████████████████▓░░░░   82.19 %
-Other      25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+Markdown   1 hr 59 mins    ██████████████████████░░░   88.27 %
+Other      15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
 ```
 
 <!--END_SECTION:waka-->
