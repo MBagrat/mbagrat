@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-brewfile       3 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.72 %
-Other          2 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.24 %
-Markdown       1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-HTTP Request   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+brewfile       3 hrs 4 mins          █████████▓░░░░░░░░░░░░░░░   38.48 %
+Other          2 hrs 42 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 %
+HTTP Request   1 hr 23 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+Markdown       29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+JSON           14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
