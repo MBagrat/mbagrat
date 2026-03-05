@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Other        5 hrs 1 min           ██████████░░░░░░░░░░░░░░░   40.20 %
-Markdown     3 hrs 10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-TypeScript   2 hrs 1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-sshconfig    1 hr 1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-brewfile     53 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other          6 hrs 1 min           ██████████░░░░░░░░░░░░░░░   39.72 %
+Markdown       3 hrs 10 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+sshconfig      2 hrs 28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+TypeScript     2 hrs 1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+brewfile       53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
 ```
 
 <!--END_SECTION:waka-->
