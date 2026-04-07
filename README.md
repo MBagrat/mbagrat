@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         27 hrs 14 mins        █████████████████▒░░░░░░░   69.18 %
-Other         8 hrs 54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Image (png)   1 hr 45 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Python        46 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Markdown      20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Swift         25 hrs 29 mins        █████████████████▒░░░░░░░   69.87 %
+Other         6 hrs 48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+Image (png)   1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Python        1 hr                  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+PlantUML      31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
