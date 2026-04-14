@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-XML            4 hrs 7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-TOML           4 hrs 5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-Other          2 hrs 36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Bash           2 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Python         1 hr 26 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+XML            4 hrs 7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+TOML           4 hrs 5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+Other          2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Python         2 hrs 13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Bash           2 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 ```
 
 <!--END_SECTION:waka-->
