@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-INI         1 hr 42 mins          ████████████▓░░░░░░░░░░░░   50.40 %
-Other       1 hr 10 mins          ████████▓░░░░░░░░░░░░░░░░   34.61 %
-sshconfig   22 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-brewfile    5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Python      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+INI         1 hr 58 mins          █████████████▒░░░░░░░░░░░   53.23 %
+Other       1 hr 11 mins          ████████░░░░░░░░░░░░░░░░░   31.99 %
+sshconfig   22 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+brewfile    5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
