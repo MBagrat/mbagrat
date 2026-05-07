@@ -50,11 +50,8 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           39 mins               ███████████░░░░░░░░░░░░░░   43.34 %
-Other          20 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
-YAML           14 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-Markdown       8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-XML            4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Bash           19 mins               █████████████████████▓░░░   86.32 %
+HTTP Request   3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
 ```
 
 <!--END_SECTION:waka-->
