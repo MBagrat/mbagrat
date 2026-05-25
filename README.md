@@ -50,7 +50,10 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-brewfile   5 mins                █████████████████████████   100.00 %
+Other      1 hr 15 mins          ████████████████████▒░░░░   81.69 %
+Swift      9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+brewfile   5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+JSON       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
