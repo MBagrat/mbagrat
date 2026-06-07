@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Java           1 hr 20 mins          ████████▒░░░░░░░░░░░░░░░░   32.81 %
-HTTP Request   1 hr 5 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-Markdown       57 mins               ██████░░░░░░░░░░░░░░░░░░░   23.34 %
-JSON           15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Other          12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Java              4 hrs 1 min           █████████░░░░░░░░░░░░░░░░   36.36 %
+Markdown          3 hrs 24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+HTTP Request      58 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Kotlin            36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+JSON              28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
