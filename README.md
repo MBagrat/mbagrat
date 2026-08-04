@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Other           8 hrs 31 mins         ███████▓░░░░░░░░░░░░░░░░░   30.60 %
-Java            4 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-GDScript3       3 hrs 39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-JSON            3 hrs 29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Groovy          3 hrs 28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Other           8 hrs 55 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 %
+Java            4 hrs 53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+Groovy          3 hrs 51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+JSON            3 hrs 29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+GDScript3       1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
