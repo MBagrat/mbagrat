@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Fork        10 hrs 43 mins        ████████▒░░░░░░░░░░░░░░░░   33.83 %
-Java        8 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   27.96 %
-Lua         5 hrs 17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Other       2 hrs 21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-brewfile    2 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Fork        10 hrs 43 mins        █████████░░░░░░░░░░░░░░░░   35.62 %
+Java        7 hrs 19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 %
+Lua         5 hrs 17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+brewfile    2 hrs 30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Other       2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
