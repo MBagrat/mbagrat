@@ -50,11 +50,11 @@ I work primarily on **distributed systems**, microservice architectures, and dat
 <!--START_SECTION:waka-->
 
 ```txt
-Other      4 hrs 4 mins          ███████████▓░░░░░░░░░░░░░   47.16 %
-Java       2 hrs 11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-Markdown   1 hr 8 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-brewfile   35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-TOML       24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Other      4 hrs 22 mins         ██████████▓░░░░░░░░░░░░░░   43.14 %
+Java       2 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   28.25 %
+Markdown   1 hr 30 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+brewfile   42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+TOML       24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
